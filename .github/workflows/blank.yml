@@ -1,45 +1,16 @@
-name: Auto Update README
+name: GitHub - Activity - Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Chạy mỗi ngày lúc 00:00 UTC
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-
-      - name: Cấu hình Git
-        run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "GitHub Actions"
-
-      - name: Thêm quyền cho Git
-        run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Hung000anh/Hung000anh.git
-
-      - name: Cập nhật README
-        run: |
-          current_date=$(date +'%Y-%m-%d')
-          if ! grep -q "$current_date" README.md; then
-            echo "Cập nhật lần cuối vào: $(date)" >> README.md
-          fi
-
-      - name: Commit và push thay đổi
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git add README.md
-            git commit -m "🔄 Auto update README"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
+      - uses: actions/checkout@v2
+      - uses: Hung000anh/github-activity-readme@commit-username-and-email
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
