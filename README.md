@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/VgQFZs2RWZystRxDP1/giphy.gif" alt="Sakura Rain GIF" width="100%" />
+  <img src="https://github.com/Hung000anh/Hung000anh/blob/main/rain_sakura.gif" alt="Sakura Rain" width="100%" height="300px" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Nguyen Hung Anh</h1>
 <h3 align="center">I work in the field of AI, focusing on practical research and application.</h3>
