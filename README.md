@@ -23,7 +23,7 @@
 
 - 📄 Know about my experience: **I’m a programmer with a strong focus on artificial intelligence.**  
 
-- ⚡ Fun fact: **I love taking risks.**  
+- ⚡ Fun fact: **I love taking risks.**   
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
