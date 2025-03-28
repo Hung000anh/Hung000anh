@@ -29,6 +29,10 @@ jobs:
 
       - name: Commit và push thay đổi
         run: |
-          git add .
-          git commit -m "🔄 Auto update README"
-          git push origin main
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "🔄 Auto update README"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
