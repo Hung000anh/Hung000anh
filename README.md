@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/nguyenhunganhgp" target="blank"><img src="https://img.shields.io/twitter/follow/nguyenhunganhgp?logo=twitter&style=for-the-badge" alt="nguyenhunganhgp" /></a> </p>
 
-- 🔭 I’m currently working on **At this time I am a student yet so I haven't worked yet**
+- 🔭 I’m currently working on **I’m currently a student, so I haven't started working yet.**  
 
-- 🌱 I’m currently learning **Ho Chi Minh City University of Industry**
+- 🌱 I’m currently studying at **Ho Chi Minh City University of Industry.**  
 
-- 👯 I’m looking to collaborate on **If you want to cooperate you can contact me**
+- 👯 I’m looking to collaborate on **Feel free to contact me if you’re interested in collaborating.**  
 
-- 🤝 I’m looking for help with **Now I don't need anyone to help**
+- 🤝 I’m looking for help with **Currently, I don’t need any assistance.**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hung000anh?tab=repositories](https://github.com/Hung000anh?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hung000anh?tab=repositories).  
 
-- 💬 Ask me about **Python, C, C++, C#, Java, HTML, CSS, ...**
+- 💬 Ask me about **Python, C, C++, C#, Java, HTML, CSS, and more.**  
 
-- 📫 How to reach me **hung000anh@gmail.com**
+- 📫 How to reach me: **hung000anh@gmail.com**  
 
-- 📄 Know about my experiences [I am a Programmer, my strength is artificial intelligence](I am a Programmer, my strength is artificial intelligence)
+- 📄 Know about my experience: **I’m a programmer with a strong focus on artificial intelligence.**  
 
-- ⚡ Fun fact **I love risk**
+- ⚡ Fun fact: **I love taking risks.**  
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -50,8 +50,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/hung000anh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hung000anh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hung000anh&show_icons=true&locale=en&layout=compact" alt="hung000anh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hung000anh&show_icons=true&locale=en" alt="hung000anh" /></p>
+<div style="display: flex; justify-content: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hung000anh&show_icons=true&locale=en&layout=compact" alt="hung000anh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hung000anh&show_icons=true&locale=en" alt="hung000anh" />
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hung000anh&" alt="hung000anh" /></p>
