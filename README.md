@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Hung+Anh" alt="Typing SVG" />
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&width=650&lines=AI+Researcher+%7C+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  AI Researcher | Developer | Tech Enthusiast
 </h3>
 
 ## 👀 Profile Views
@@ -87,17 +87,12 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&layout=compact&theme=highcontrast" alt="Top Languages" />
-  </a>  
   <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-  </a>
-  <br>
-  <a href="https://git.io/streak-stats">
     <img src="https://git-hub-streak-stats.vercel.app?user=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Streak" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hung000anh&theme=high-contrast&height=300" alt="GitHub Activity Graph" />
 </p>
 
 ## ☕ Support Me
