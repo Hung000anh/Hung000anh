@@ -27,6 +27,10 @@ jobs:
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Hung000anh/Hung000anh.git
 
+      - name: Cập nhật README
+        run: |
+          echo "Cập nhật lần cuối vào: $(date)" >> README.md
+
       - name: Commit và push thay đổi
         run: |
           if [ -n "$(git status --porcelain)" ]; then
