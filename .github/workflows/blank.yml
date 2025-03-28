@@ -29,12 +29,15 @@ jobs:
 
       - name: Cập nhật README
         run: |
-          echo "Cập nhật lần cuối vào: $(date)" >> README.md
+          current_date=$(date +'%Y-%m-%d')
+          if ! grep -q "$current_date" README.md; then
+            echo "Cập nhật lần cuối vào: $(date)" >> README.md
+          fi
 
       - name: Commit và push thay đổi
         run: |
           if [ -n "$(git status --porcelain)" ]; then
-            git add .
+            git add README.md
             git commit -m "🔄 Auto update README"
             git push origin main
           else
