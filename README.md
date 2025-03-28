@@ -91,7 +91,7 @@
   <br>
   <div style="display: flex; align-items: center;">
     <img src="https://git-hub-streak-stats.vercel.app?user=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&theme=highcontrast&v2" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
   </div>
   <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hung000anh&theme=high-contrast&height=300" alt="GitHub Activity Graph" />
