@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hung Anh</h1>
 <h3 align="center">I work in the field of AI, focusing on practical research and application.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hung000anh&label=Profile%20views&color=0e75b6&style=flat" alt="hung000anh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hung000anh&label=Profile%20views&color=brightgreen&style=flat" alt="hung000anh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hung000anh" alt="hung000anh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nguyenhunganhgp" target="blank"><img src="https://img.shields.io/twitter/follow/nguyenhunganhgp?logo=twitter&style=for-the-badge" alt="nguyenhunganhgp" /></a> </p>
 
 - 🔭 I’m currently working on **I’m currently a student, so I haven't started working yet.**  
 
