@@ -3,8 +3,12 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Nguyen Hung Anh</h1>
-<h3 align="center">AI Researcher | Developer | Tech Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Hung+Anh" alt="Typing SVG" />
+</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&width=650&lines=AI+Researcher+%7C+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</h3>
 
 ## 👀 Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hung000anh&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="hung000anh" /> </p>
