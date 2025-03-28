@@ -50,9 +50,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/hung000anh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hung000anh" /></a></p><br><br>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hung000anh&show_icons=true&locale=en&layout=compact" alt="hung000anh" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hung000anh&show_icons=true&locale=en" alt="hung000anh" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hung000anh&show_icons=true&locale=en&layout=compact" alt="hung000anh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hung000anh&" alt="hung000anh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hung000anh&show_icons=true&locale=en" alt="hung000anh" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hung000anh&" alt="hung000anh" /></p>
