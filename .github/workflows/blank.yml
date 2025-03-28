@@ -10,23 +10,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
-      - name: Update README
+      - name: Cấu hình Git
         run: |
-          echo "🔄 Cập nhật lúc: $(date)" > README.md
-          echo "📂 Số lượng repo: $(curl -s https://api.github.com/users/Hung000anh/repos | jq length)" >> README.md
-
-      - name: Commit and push changes
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
-          git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "🔄 Auto update README" || exit 0
-          git push https://Hung000anh:${GH_PAT}@github.com/Hung000anh/Hung000anh.git
+
+      - name: Thêm quyền cho Git
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Hung000anh/Hung000anh.git
+
+      - name: Commit và push thay đổi
+        run: |
+          git add .
+          git commit -m "🔄 Auto update README"
+          git push origin main
