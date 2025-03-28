@@ -55,7 +55,7 @@
 </p>
 
 <div style="display: flex; white-space: nowrap; overflow-x: auto; gap: 20px; padding: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hung000anh&show_icons=true&locale=en&layout=compact" alt="hung000anh" style="border-radius: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hung000anh&show_icons=true&locale=en" alt="hung000anh" style="border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hung000anh&show_icons=true&locale=en&layout=compact" alt="Hung000anh" style="border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&locale=en" alt="Hung000anh" style="border-radius: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hung000anh&" alt="hung000anh" style="border-radius: 10px;" />
 </div>
