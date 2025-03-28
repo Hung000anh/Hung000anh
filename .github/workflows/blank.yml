@@ -1,17 +1,32 @@
-
-name: GitHub - Activity - Readme
+name: Auto Update README
 
 on:
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 0 * * *"  # Chạy mỗi ngày lúc 00:00 UTC
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: Hung000anh/github-activity-readme@commit-username-and-email
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          echo "🔄 Cập nhật lúc: $(date)" > README.md
+          echo "📂 Số lượng repo: $(curl -s https://api.github.com/users/Hung000anh/repos | jq length)" >> README.md
+
+      - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "🔄 Auto update README" || exit 0
+          git push https://Hung000anh:${GH_PAT}@github.com/Hung000anh/Hung000anh.git
