@@ -86,16 +86,16 @@
 </p>
 
 ## 📊 GitHub Stats
-<p align="left">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&layout=compact&theme=highcontrast" alt="Top Languages" />
-  <br>
+    <br>
     <div style="display: flex; align-items: center; flex-wrap: nowrap;">
-        <img src="https://git-hub-streak-stats.vercel.app?user=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Streak" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+        <img src="https://git-hub-streak-stats.vercel.app?user=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Streak" style="height: 200px; object-fit: contain;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 200px; object-fit: contain;" />
     </div>
-  <br>
+    <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hung000anh&theme=high-contrast&height=300" alt="GitHub Activity Graph" />
-</p>
+</div>
 
 
 ## ☕ Support Me
