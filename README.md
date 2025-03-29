@@ -88,8 +88,9 @@
 ## 📊 GitHub Stats
 
   <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&layout=donut&theme=highcontrast" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&layout=compact&theme=highcontrast" alt="Top Languages" />
+
   </p>
 
   <img src="https://git-hub-streak-stats.vercel.app?user=Hung000anh&show_icons=true&theme=highcontrast"  alt="GitHub Streak"  />
