@@ -86,20 +86,12 @@
 </p>
 
 ## 📊 GitHub Stats
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&layout=compact&theme=highcontrast" alt="Top Languages" />
-    <br>
-    <div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
-        <img src="https://git-hub-streak-stats.vercel.app?user=Hung000anh&show_icons=true&theme=highcontrast" 
-             alt="GitHub Streak" 
-             style="width: 45%; height: auto; object-fit: cover;" />  
-        <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&theme=highcontrast" 
-             alt="GitHub Stats" 
-             style="width: 45%; height: auto; object-fit: cover;" />
-    </div>
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hung000anh&theme=high-contrast&height=300" alt="GitHub Activity Graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <p align="left">
+    <img src="https://git-hub-streak-stats.vercel.app?user=Hung000anh&show_icons=true&theme=highcontrast"  alt="GitHub Streak" style = "width = 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hung000anh&show_icons=true&theme=highcontrast" alt="GitHub Stats" style = "width = 45%;"/>
+  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hung000anh&theme=high-contrast&height=300" alt="GitHub Activity Graph" />
 
 
 ## ☕ Support Me
