@@ -101,6 +101,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hung000anh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hung000anh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hung000anh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+## 🐍 Contributions
+
+![snake gif](https://github.com/Hung000anh/Hung000anh/blob/output/github-snake-dark.svg)
 
 ## ☕ Support Me
 <p align="left">
@@ -108,4 +112,5 @@
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
   </a>
 </p>
+
 
