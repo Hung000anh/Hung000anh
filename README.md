@@ -34,7 +34,7 @@
   <tr>
     <!-- Languages -->
     <td align="center">
-      <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  width="30" /></a>
+      <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  width="35" /></a>
       <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"  width="35" /></a>
       <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"  width="35" /></a>
     </td>
