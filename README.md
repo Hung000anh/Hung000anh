@@ -23,7 +23,7 @@
 
 ## 💻 Tech Stack Overview
 
-<table>
+<table width="100%">
   <tr>
     <th align="center">💻 Programming Languages</th>
     <th align="center">🗄️ Database</th>
@@ -62,11 +62,6 @@
       <a href="https://fastapi.tiangolo.com/"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="30" /></a>
       <a href="https://expressjs.com/"><img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" alt="ExpressJS" width="30" /></a>
     </td>
-
-
-
-
-
   </tr>
 </table>
 
