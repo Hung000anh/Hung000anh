@@ -20,51 +20,56 @@
   </a>
 </p>
 
-## 👨‍💻 About Me:
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hung000anh?tab=repositories).  
+## 💻 Tech Stack Overview
 
-- 💬 Ask me about **Python, C, C++, C#, Java, HTML, CSS, and more.**  
+<table>
+  <tr>
+    <th align="center">💻 Programming Languages</th>
+    <th align="center">🗄️ Database</th>
+    <th align="center">🧰 Tools & Platforms</th>
+    <th align="center">🚀 Frameworks</th>
+  </tr>
 
-- 📫 How to reach me: **hung000anh@gmail.com** 
+  <tr>
+    <!-- Languages -->
+    <td align="center" width="25%">
+      <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" ;"/></a>
+      <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" ;"/></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" ;"/></a>
+    </td> 
+    <!-- Database -->
+    <td align="center" width="15%">
+      <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" ;"/></a>
+      <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" ;"/></a>
+    </td>
+    <!-- Tools -->
+    <td align="center" width="25%">
+      <a href="https://supabase.com/"><img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" alt="Supabase" width="30" ;"/></a>
+      <a href="https://n8n.io/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n" width="30" ;"/></a>
+      <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" width="30" ;"/></a>
+    </td>
+    <td align="center" width="30%">
+      <div><b>AI / ML</b></div>
+      <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="30" /></a>
+      <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" /></a>
+      <a href="https://scikit-learn.org/"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" width="30" /></a>
+      <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="30" /></a>
+      <div><b>Frontend</b></div>
+      <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" /></a>
+      <div><b>Backend</b></div>
+      <a href="https://nestjs.com/"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="NestJS" width="30" /></a>
+      <a href="https://fastapi.tiangolo.com/"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="30" /></a>
+      <a href="https://expressjs.com/"><img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" alt="ExpressJS" width="30" /></a>
+    </td>
 
-<!-- ## Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-## 💻 Programming Languages
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" width="40" height="40""/></a>
-  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"""/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40""/></a>
-</p>
 
-## 🗄️ Database
-<p align="left">
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-</p>
 
-## 🚀 Frameworks
-### 🧠 AI / Machine Learning
-<p align="left">
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" /></a>
-  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" /></a>
-  <a href="https://scikit-learn.org/"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" width="40" height="40" /></a>
-  <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40" /></a>
-</p>
 
-### ⚙️ Frontend
-<p align="left">
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-</p>
+  </tr>
+</table>
 
-### ⚙️ Backend
-<p align="left">
-  <a href="https://techicons.dev/icons/nestjs"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="NestJS" width="40" height="40" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" alt="ExpressJS" width="40" height="40" /></a>
-</p>
 
 
 
