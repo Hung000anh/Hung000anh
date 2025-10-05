@@ -22,37 +22,15 @@
 
 ## 👨‍💻 About Me:
 
-- 🔭 I’m currently working on **I’m currently a student, so I haven't started working yet.**  
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hung000anh?tab=repositories).  
 
 - 💬 Ask me about **Python, C, C++, C#, Java, HTML, CSS, and more.**  
 
-- 📫 How to reach me: **hung000anh@gmail.com**  
-
-- 📄 Know about my experience: **I’m a programmer with a strong focus on artificial intelligence.**  
-
-- ⚡ Fun fact: **I love taking risks.**   
-
+- 📫 How to reach me: **hung000anh@gmail.com** 
 
 <!-- ## Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-## Connect with me:
-<p align="left">
-<a href="https://dev.to/hung000anh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hung000anh" height="30" width="40" /></a>
-<a href="https://twitter.com/nguyenhunganhgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nguyenhunganhgp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hùng-anh-nguyễn-307029302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hùng-anh-nguyễn-307029302" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28496195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28496195" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hung000anh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hung000anh" height="30" width="40" /></a>
-<a href="https://kaggle.com/hung000anh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hung000anh" height="30" width="40" /></a>
-<a href="https://fb.com/anh.nguyenn.969741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anh.nguyenn.969741" height="30" width="40" /></a>
-<a href="https://instagram.com/hung000anh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hung000anh" height="30" width="40" /></a>
-<a href="https://medium.com/@hung000anh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hung000anh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hunganhnguyen2574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hunganhnguyen2574" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<hung00dpd8>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<hung00dpd8>/profile" height="30" width="40" /></a>
-</p>
 
 ## 💻 Programming Languages
 <p align="left">
