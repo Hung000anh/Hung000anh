@@ -20,7 +20,7 @@
   </a> -->
 <!-- </p> -- -->
 <p align="center">
-  <img src=".github/assets/trophy.svg" alt="GitHub Trophy" />
+  <img src="profile/trophy.svg" alt="GitHub Trophy" />
 </p>
 
 
