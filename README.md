@@ -14,10 +14,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hung000anh&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="hung000anh" /> </p>
 
 ## 🏆 GitHub Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<!-- <p align="center">
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Hung000anh&theme=darkhub&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-  </a>
+  </a> -->
+<!-- </p> -- -->
+<p align="center">
+  <img src=".github/assets/trophy.svg" alt="GitHub Trophy" />
 </p>
 
 
