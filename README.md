@@ -15,7 +15,7 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="profile/trophy.svg" alt="GitHub Trophy" />
+  <img src="profile/trophy.svg?raw=true" alt="GitHub Trophy" />
 </p>
  
 
