@@ -57,7 +57,7 @@
       <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"  width="30" /></a>
       <a href="https://scikit-learn.org/"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn"  width="30" /></a>
       <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace"  width="30" /></a>
-      <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  width="30" /></a>
+      <!-- <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  width="30" /></a> -->
       <!-- <a href="https://nestjs.com/"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="NestJS"  width="30" /></a> -->
       <a href="https://fastapi.tiangolo.com/"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI"  width="30" /></a>
       <!-- <a href="https://expressjs.com/"><img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" alt="ExpressJS"  width="30" /></a> -->
