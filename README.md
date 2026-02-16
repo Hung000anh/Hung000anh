@@ -23,19 +23,12 @@
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse; margin:auto;">
   <tr>
-    <th align="center" style="width:20%;">💻 Programming Languages</th>
     <th align="center" style="width:20%;">🗄️ Database</th>
     <th align="center" style="width:20%;">🧰 Tools & Platforms</th>
     <th align="center" style="width:40%;">🚀 Frameworks</th>
   </tr>
 
   <tr>
-    <!-- Languages -->
-    <td align="center">
-      <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  width="30" /></a>
-      <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"  width="30" /></a>
-      <!-- <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"  width="30" /></a> -->
-    </td>
     <!-- Database -->
     <td align="center">
       <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"  width="30" /></a>
