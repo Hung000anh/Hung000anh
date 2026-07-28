@@ -62,15 +62,16 @@
 
 <!-- Hàng 1: Profile Stats & Top Languages -->
 <p>
-  <img alt="Hung000anh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Hung000anh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="195"/>
-  <img alt="Hung000anh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=jupyter%20notebook,c%23,html,css,shaderlab,hlsl,gap,objective-c%2B%2B,cmake,dockerfile,makefile,batchfile,powershell,shell&height=195" height="195"/>
+  <img alt="Hung000anh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Hung000anh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Hung000anh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=jupyter%20notebook,c%23,html,css,shaderlab,hlsl,gap,objective-c%2B%2B,cmake,dockerfile,makefile,batchfile,powershell,shell" height="192px"/>
 </p>
 
 <!-- Hàng 2: Streak Stats & Activity Graph -->
 <p>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hung000anh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hung000anh&theme=monokai-metallian&hide_border=true&short_numbers=true" height="140"/>
-  <img alt="Hung000anh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hung000anh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&height=300&days=30" height="140"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hung000anh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hung000anh&theme=monokai-metallian&hide_border=true&short_numbers=true" width="42%" height="192px"/>
+  <img alt="Hung000anh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hung000anh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&height=300&days=30" width="56%" height="192px"/>
 </p>
+
 
 ## 🐍 Contributions
 ![snake gif](https://github.com/Hung000anh/Hung000anh/blob/output/github-snake-dark.svg)
