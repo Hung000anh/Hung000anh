@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Hung000anh/Hung000anh/blob/main/rain_sakura.gif" alt="Sakura Rain" width="400px" height="200px" />
+  <img src="https://raw.githubusercontent.com/Hung000anh/Hung000anh/main/rain_sakura.gif" alt="Sakura Rain" width="400px" height="200px" />
 </p> 
  
  
