@@ -67,7 +67,7 @@
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hung000anh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hung000anh&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hung000anh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hung000anh&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px"/>
     </a>
   </p>
 
@@ -81,7 +81,7 @@
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hung000anh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hung000anh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&height=300&days=30" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hung000anh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hung000anh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&height=300&days=30" height="192px"/></a>
 
 ## 🐍 Contributions
 ![snake gif](https://github.com/Hung000anh/Hung000anh/blob/output/github-snake-dark.svg)
