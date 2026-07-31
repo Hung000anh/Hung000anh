@@ -75,8 +75,7 @@
 
 ## 🎮 Contributions
 <p align="center">
-  <img alt="arcade contribution game" src="https://raw.githubusercontent.com/Hung000anh/Hung000anh/output/github-arcade-dark.svg#gh-dark-mode-only">
-  <img alt="arcade contribution game" src="https://raw.githubusercontent.com/Hung000anh/Hung000anh/output/github-arcade.svg#gh-light-mode-only">
+  <img alt="arcade contribution game" src="https://raw.githubusercontent.com/Hung000anh/Hung000anh/output/github-arcade.svg">
 </p>
 
 ## ☕ Support Me
