@@ -18,13 +18,13 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 22
 
       - name: Generate Top Languages SVG
         env:
           PAT_1: ${{ secrets.GH_PAT }}
         run: |
-          git clone https://github.com/anuraghazra/github-readme-stats.git temp-stats
+          git clone --branch v2.6.0 https://github.com/anuraghazra/github-readme-stats.git temp-stats
           cd temp-stats
           npm ci
           node -e "
