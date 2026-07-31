@@ -63,7 +63,7 @@
 <!-- Hàng 1: Profile Stats & Top Languages -->
 <p>
   <img alt="Hung000anh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Hung000anh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Hung000anh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hung000anh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=jupyter%20notebook" height="192px"/>
+  <img alt="Hung000anh's Top Languages" src="./top-languages.svg" height="192px"/>
 </p>
 
 <!-- Hàng 2: Streak Stats & Activity Graph -->
