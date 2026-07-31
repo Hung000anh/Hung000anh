@@ -18,13 +18,15 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 20
 
       - name: Generate Top Languages SVG
         env:
+          # PAT_1 giúp fetcher truy cập được vào cả private repositories của bạn
           PAT_1: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
         run: |
-          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git temp-stats
+          # Ghim phiên bản v2.6.0 để giữ đúng cấu trúc đường dẫn require() cũ
+          git clone --branch v2.6.0 --depth 1 https://github.com/anuraghazra/github-readme-stats.git temp-stats
           cd temp-stats
           npm ci
           node -e "
