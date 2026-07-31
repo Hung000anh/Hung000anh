@@ -20,7 +20,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Pick today's game
+      # Step 2: Chọn game của hôm nay
       - name: Pick today's game
         id: pick
         run: |
@@ -30,42 +30,24 @@ jobs:
           echo "game=$GAME" >> "$GITHUB_OUTPUT"
           echo "Today's game: $GAME"
 
-      # Step 3: Generate SVGs
-      - name: Generate contribution graph SVGs
+      # Step 3: Generate SVGs using Official Action (Bypasses API limits)
+      - name: generate contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: ${{ steps.pick.outputs.game }}
 
-      # Step 4: Remove month labels
-      - name: Remove month labels
-        run: |
-          for file in dist/*.svg; do
-            sed -i '/>Jan</d' "$file"
-            sed -i '/>Feb</d' "$file"
-            sed -i '/>Mar</d' "$file"
-            sed -i '/>Apr</d' "$file"
-            sed -i '/>May</d' "$file"
-            sed -i '/>Jun</d' "$file"
-            sed -i '/>Jul</d' "$file"
-            sed -i '/>Aug</d' "$file"
-            sed -i '/>Sep</d' "$file"
-            sed -i '/>Oct</d' "$file"
-            sed -i '/>Nov</d' "$file"
-            sed -i '/>Dec</d' "$file"
-          done
-
-      # Step 5: Rename generated files
+      # Step 4: Rename generated files to match our README
       - name: Rename SVGs
         run: |
           mv dist/${{ steps.pick.outputs.game }}-contribution-graph.svg dist/github-arcade.svg
           mv dist/${{ steps.pick.outputs.game }}-contribution-graph-dark.svg dist/github-arcade-dark.svg
 
-      # Step 6: Deploy the generated files to the 'output' branch
+      # Step 5: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.GH_PAT  }}
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update arcade contribution game [skip ci]"
