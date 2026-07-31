@@ -19,11 +19,11 @@ jobs:
       - name: Generate Top Languages Card
         uses: stats-organization/github-readme-stats-action@v1
         with:
-          gh_token: ${{ secrets.GH_PAT }}
-          username: Hung000anh
+          token: ${{ secrets.GH_PAT }}
           card: top-langs
-          output_path: top-languages.svg
-          card_options: >-
+          path: top-languages.svg
+          options: >-
+            username=Hung000anh
             layout=compact
             theme=react
             hide_border=true
