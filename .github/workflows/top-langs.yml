@@ -13,49 +13,27 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v1
         with:
-          node-version: 20
+          gh_token: ${{ secrets.GH_PAT }}
+          username: Hung000anh
+          card: top-langs
+          output_path: top-languages.svg
+          card_options: >-
+            layout=compact
+            theme=react
+            hide_border=true
+            bg_color=1F222E
+            title_color=F85D7F
+            icon_color=F8D866
+            langs_count=8
+            exclude_repo=jupyter notebook
 
-      - name: Generate Top Languages SVG
-        env:
-          # PAT_1 giúp fetcher truy cập được vào cả private repositories của bạn
-          PAT_1: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
-        run: |
-          # Ghim phiên bản v2.6.0 để giữ đúng cấu trúc đường dẫn require() cũ
-          git clone --branch v2.6.0 --depth 1 https://github.com/anuraghazra/github-readme-stats.git temp-stats
-          cd temp-stats
-          npm ci
-          node -e "
-            const { fetchTopLanguages } = require('./src/fetchers/top-languages-fetcher');
-            const { renderTopLanguageCard } = require('./src/cards/top-languages-card');
-            const fs = require('fs');
-
-            async function run() {
-              const topLangs = await fetchTopLanguages('Hung000anh', ['jupyter notebook']);
-              const svg = renderTopLanguageCard(topLangs, {
-                layout: 'compact',
-                theme: 'react',
-                hide_border: true,
-                bg_color: '1F222E',
-                title_color: 'F85D7F',
-                icon_color: 'F8D866',
-                langs_count: 8,
-              });
-              fs.writeFileSync('../top-languages.svg', svg);
-            }
-            run().catch(err => {
-              console.error(err);
-              process.exit(1);
-            });
-          "
-          cd ..
-          rm -rf temp-stats
-
-      - name: Commit Top Languages SVG
+      - name: Commit & Push SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
