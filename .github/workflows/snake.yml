@@ -30,29 +30,18 @@ jobs:
           echo "game=$GAME" >> "$GITHUB_OUTPUT"
           echo "Today's game: $GAME"
 
-      # Step 3: Setup Node
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      # Step 3: Generate SVGs using Official Action (Bypasses API limits)
+      - name: generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          node-version: 20
+          github_user_name: ${{ github.repository_owner }}
+          games: ${{ steps.pick.outputs.game }}
 
-      # Step 4: Cài CLI và generate SVG
-      - name: Generate Arcade Contribution SVGs
+      # Step 4: Rename generated files to match our README
+      - name: Rename SVGs
         run: |
-          npm install -g pacman-contribution-graph
-          mkdir -p dist
-          pacman-contribution-graph \
-            --platform github \
-            --username ${{ github.repository_owner }} \
-            --game ${{ steps.pick.outputs.game }} \
-            --gameTheme github \
-            --output dist/github-arcade.svg
-          pacman-contribution-graph \
-            --platform github \
-            --username ${{ github.repository_owner }} \
-            --game ${{ steps.pick.outputs.game }} \
-            --gameTheme github-dark \
-            --output dist/github-arcade-dark.svg
+          mv dist/${{ steps.pick.outputs.game }}-contribution-graph.svg dist/github-arcade.svg
+          mv dist/${{ steps.pick.outputs.game }}-contribution-graph-dark.svg dist/github-arcade-dark.svg
 
       # Step 5: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
