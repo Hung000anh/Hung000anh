@@ -75,9 +75,9 @@
 
 ## 🎮 Contributions
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hung000anh/Hung000anh/output/github-arcade-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hung000anh/Hung000anh/output/github-arcade.svg">
-    <img alt="arcade contribution game" src="https://raw.githubusercontent.com/Hung000anh/Hung000anh/output/github-arcade.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hung000anh/Hung000anh/blob/output/github-arcade-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hung000anh/Hung000anh/blob/output/github-arcade.svg?raw=true">
+    <img alt="arcade contribution game" src="https://github.com/Hung000anh/Hung000anh/blob/output/github-arcade.svg?raw=true">
 </picture>
 
 ## ☕ Support Me
