@@ -21,17 +21,9 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
           card: top-langs
+          username: Hung000anh
           path: top-languages.svg
-          options: |
-            username=Hung000anh
-            layout=compact
-            theme=react
-            hide_border=true
-            bg_color=1F222E
-            title_color=F85D7F
-            icon_color=F8D866
-            langs_count=8
-            exclude_repo=jupyter notebook
+          options: "layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=html,css,jupyter%20notebook"
 
       - name: Commit & Push SVG
         run: |
