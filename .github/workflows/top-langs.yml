@@ -2,7 +2,7 @@ name: Update Top Languages SVG
 
 on:
   schedule:
-    - cron: "0 2 * * *" # Tự động chạy lúc 00:00 mỗi ngày
+    - cron: "0 2 * * *" # Tự động chạy lúc 02:00 UTC mỗi ngày
   workflow_dispatch:
 
 jobs:
@@ -22,9 +22,9 @@ jobs:
 
       - name: Generate Top Languages SVG
         env:
-          PAT_1: ${{ secrets.GH_PAT }}
+          PAT_1: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
         run: |
-          git clone --branch v2.6.0 https://github.com/anuraghazra/github-readme-stats.git temp-stats
+          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git temp-stats
           cd temp-stats
           npm ci
           node -e "
@@ -45,7 +45,10 @@ jobs:
               });
               fs.writeFileSync('../top-languages.svg', svg);
             }
-            run();
+            run().catch(err => {
+              console.error(err);
+              process.exit(1);
+            });
           "
           cd ..
           rm -rf temp-stats
