@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           card: top-langs
           path: top-languages.svg
-          options: >-
+          options: |
             username=Hung000anh
             layout=compact
             theme=react
