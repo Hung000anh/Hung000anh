@@ -25,8 +25,8 @@ jobs:
         id: pick
         run: |
           GAMES=(pacman breakout galaga puzzle-bobble bomberman minesweeper)
-          DAY_INDEX=$(( $(date +%j) % ${#GAMES[@]} ))
-          GAME=${GAMES[$DAY_INDEX]}
+          RANDOM_INDEX=$(( RANDOM % ${#GAMES[@]} ))
+          GAME=${GAMES[$RANDOM_INDEX]}
           echo "game=$GAME" >> "$GITHUB_OUTPUT"
           echo "Today's game: $GAME"
 
