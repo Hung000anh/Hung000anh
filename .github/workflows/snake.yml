@@ -36,6 +36,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           games: ${{ steps.pick.outputs.game }}
+          hide_month_labels: 'true'
 
       # Step 4: Rename generated files to match our README
       - name: Rename SVGs
