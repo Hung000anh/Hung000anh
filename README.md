@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRrNzlmNWsxdmtjNHplZ2J3MTYwZTVpMTJoajlxeGV6a3dhMDlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8O0UuvKgNPM8t0ZK1e/giphy.gif" alt="Sakura Rain" style="width: 70%; height: 200px; object-fit: cover; object-position: center 70%;" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRrNzlmNWsxdmtjNHplZ2J3MTYwZTVpMTJoajlxeGV6a3dhMDlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8O0UuvKgNPM8t0ZK1e/giphy.gif" alt="Sakura Rain" style="width: 50%; object-fit: cover; object-position: center 70%;" />
 </p>
  
  
