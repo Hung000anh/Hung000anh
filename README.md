@@ -8,7 +8,9 @@
 </h1> 
 
 <p align="center">
-  <i>"I resurrect dead Latin words and give them jobs — pulling forgotten language out of old books and putting it to work quietly inside modern, living, breathing code."</i>
+  <i>"I resurrect dead Latin words and give them jobs —<br>
+  pulling forgotten language out of old books and putting it to <br>work
+  quietly inside modern, living, breathing code."</i>
 </p>
  
 ## 👀 Profile Views
