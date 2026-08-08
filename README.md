@@ -9,7 +9,7 @@
 
 <p align="center">
   <i>"I resurrect dead Latin words and give them jobs —<br>
-  pulling forgotten language out of old books and putting it to <br>work
+  pulling forgotten language out of old books and putting it to work <br>
   quietly inside modern, living, breathing code."</i>
 </p>
  
