@@ -76,7 +76,7 @@
 <!-- Hàng 2: Streak Stats & Activity Graph -->
 <p>
 
-  <img alt="Hung000anh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hung000anh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&height=300&days=30"/>
+  <img alt="Hung000anh's Activity Graph" src="./activity-graph.svg"/>
 </p>
 
 
